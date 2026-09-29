@@ -1,4 +1,4 @@
-"# IGAppStarter"
+# IGAppStarter
 
 # For the first routes and if you are starting with the apache camel basics , please refer to the below link and follow
 
