@@ -1,14 +1,13 @@
 # IGAppStarter
 
-# For the first routes and if you are starting with the apache camel basics , please refer to the below link and follow
+# For the first routes and if you are starting with the apache camel basics , please refer to the below link and follow the playlist to understand the working of routes.
+  
+   https://www.youtube.com/watch?v=-PRbLgnjisI&list=PLxYSIlUk9lvWLKcNVx9sD588H2sG2Grl5
+ 
+  Also can clone (https://github.com/UtkarshSinghProtecons25/RestAPI_for_apache.git) for sample crud operations that can be consumed
+  In initial learning . Please go through the Readme.md in the repo before using it.
 
-# the playlist to understand the working of routes.
 
-# Also can clone (https://github.com/UtkarshSinghProtecons25/RestAPI_for_apache.git) for sample crud operations that can be consumed
-
-# in initial learning . Please go through the Readme.md in the repo before using it.
-
-https://www.youtube.com/watch?v=-PRbLgnjisI&list=PLxYSIlUk9lvWLKcNVx9sD588H2sG2Grl5
 
 # Apache Camel – Vehicle Scrap Integration
 
